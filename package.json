@@ -1,0 +1,29 @@
+{
+  "name": "bra40convert",
+  "version": "1.0.0",
+  "description": "bra40convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leengoclinh/bra40convert.git"
+  },
+  "keywords": [
+    "bra40convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "leengoclinh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leengoclinh/bra40convert/issues"
+  },
+  "homepage": "https://github.com/leengoclinh/bra40convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
